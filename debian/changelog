@@ -1,0 +1,5 @@
+libsepol (3.3-deepin) stable; urgency=medium
+
+  * ['Rebuild  against by  current gcc 11.2']
+
+ -- Deepin Packages Builder <packages@deepin.org>  Thu, 11 Aug 2022 22:04:44 +0800
